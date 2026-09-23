@@ -149,7 +149,6 @@ For a detailed walkthrough of every line, see [**Multi_Connection_Server_Notes.m
 ├── server_multi.py                                   # The multi-client terminal chat server
 ├── Multi_Connection_Server_Notes.md                  # In-depth explanation of sockets, selectors and buffers
 ├── IO Multi-threding(Terminal Chatroom Project).pdf  # Project reference material
-└── server_single.py                                  # Earlier step: a minimal blocking HTTP server
 ```
 
 ---
